@@ -1,4 +1,4 @@
-package accuweatherWithWireMock;
+package accuweatherMock;
 
 import com.github.tomakehurst.wiremock.WireMockServer;
 import org.junit.jupiter.api.AfterAll;

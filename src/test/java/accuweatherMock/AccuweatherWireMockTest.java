@@ -1,4 +1,4 @@
-package accuweatherWithWireMock;
+package accuweatherMock;
 
 
 import com.fasterxml.jackson.core.JsonProcessingException;
